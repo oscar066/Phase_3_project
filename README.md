@@ -25,6 +25,7 @@ patterns for such customers</p>
 <li> Random Forest </li>
 <li> Gradient Boosting </li>
 <li> Stacking </li>
+<p> Here we created baseline_model and progressed iteratively tuning the different parameters for the different modelling algorithms </p>
 
 ## Conclusion
 <p> The final model picked was the Random forest model 1 which had the highest metrics of :
