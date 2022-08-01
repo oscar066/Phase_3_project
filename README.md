@@ -32,7 +32,7 @@ using GridSearch to find the best paramaters for each model</p>
 <p> The evaluation metrics used for this project were : Classificaton Accuracy , Recall , F1_Score and precision </p>
 <li> Accuracy  : It is the ratio of number of correct predictions to the total number of input samples. </li>
 <li> Recall    : It is the number of correct positive results divided by the number of all relevant samples (all samples that should have been identified as positive). </li>
-<li> precision : It is the number of correct positive results divided by the number of positive results predicted by the classifier. </li>
+<li> Precision : It is the number of correct positive results divided by the number of positive results predicted by the classifier. </li>
 <li> F1_score  : It tells you how precise your classifier is (how many instances it classifies correctly), as well as how robust it is (it does not miss a significant number of instances). </li>
 
 ## Conclusion
