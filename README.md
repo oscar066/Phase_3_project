@@ -33,3 +33,5 @@ patterns for such customers</p>
  <li>Classification F1 score  : 74% </li>
  <li>Classification precision : 75% </li>
 </p>
+<p> This model had a very high classification accuracy of 93% and also it had a balance in the other evaluating metrics above 70% for recall , 
+F1 score and precision </p>
