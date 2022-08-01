@@ -24,7 +24,7 @@ patterns for such customers</p>
 <li> Decision tree </li>
 <li> Random Forest </li>
 <li> Gradient Boosting </li>
-<li> Stacking </li>
+<li> Stacking </li><br>
 <p> Here we created baseline_model and progressed iteratively tuning the different parameters for the different modelling algorithms </p>
 
 ## Conclusion
