@@ -18,4 +18,18 @@ patterns for such customers</p>
 <p> The data for this project comes from SyrialTelecom customer churn dataset </p>
 <p> Data/bigml_59c28831336c6604c800002a.csv </p>
 
+## Modelling 
+<p> Different Modelling algorithms were used iteratively to find the best: </P>
+<li> Logistic Regression </li>
+<li> Decision tree </li>
+<li> Random Forest </li>
+<li> Gradient Boosting </li>
+<li> Stacking </li>
+
 ## Conclusion
+<p> The final model picked was the Random forest model 1 which had the highest metrics of :
+ <li>Classification Accuracy  : 93% </li>
+ <li>Classification recall    : 73% </li>
+ <li>Classification F1 score  : 74% </li>
+ <li>Classification precision : 75% </li>
+</p>
