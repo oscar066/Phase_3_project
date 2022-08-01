@@ -1,4 +1,6 @@
 # SyriaTel Company Churn Analysis and Modelling
+<img src=images/telecom2.png>
+
 ## Introduction
 <p> Syrial is a telecommunicatioon company that aims at optimizing its operation by reducing the amount of money 
 spend on customers who don't stick to the company for long by using machine learning and finding the predictable 
@@ -15,4 +17,5 @@ patterns for such customers</p>
 ## Data Understanding
 <p> The data for this project comes from SyrialTelecom customer churn dataset </p>
 <p> Data/bigml_59c28831336c6604c800002a.csv </p>
+
 ## Conclusion
